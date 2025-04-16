@@ -83,3 +83,11 @@ Con base en las métricas analizadas, se entregará un **informe final** que ind
 ## 📌 Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## 🛡️ Insignia
+
+La realización y entrega de este proyecto otorgó una exclusiva insignia:
+
+![Badge Challenge Alura Store - Alura](https://cdn1.gnarususercontent.com.br/6/409126/0cbae998-197d-4fc8-ac13-5d12d560e624.png)
